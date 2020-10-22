@@ -19,3 +19,6 @@
 # Hello World
 git clone https://github.com/jerrykuku/lua-maxminddb.git package/lua-maxminddb
 git clone https://github.com/anzi2018/luci-app-vssr.git package/luci-app-vssr
+
+# AdGuardHome
+git clone https://github.com/rufengsuixing/luci-app-adguardhome
